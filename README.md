@@ -1,7 +1,6 @@
 # FiveM-Scripts
 - Gui Phone <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/756498361942671421/916021286520651807/unknown.png" width="350" title="hover text">
-  <img src="https://cdn.discordapp.com/attachments/756498361942671421/916021286520651807/unknown.png" width="350" alt="accessibility text">
+  <img src="https://cdn.discordapp.com/attachments/756498361942671421/916021286520651807/unknown.png" width="36" title="hover text">
 </p>
 - Loadingscreen
 - Watermark
