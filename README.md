@@ -1,13 +1,10 @@
 # FiveM-Scripts
-- Gui Phone <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/756498361942671421/916021286520651807/unknown.png" width="36" title="hover text">
-</p>
-- Loadingscreen
-- Watermark
-- Gui Phone [ 2 ]
-- Chat
-- Watermark [ 2 ]
-- Hud 
+| Scripts        | Preview
+| ------------- |:-------------:|
+| Gui Phone      | [Preview](https://cdn.discordapp.com/attachments/756498361942671421/916021286520651807/unknown.png) |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
 # About
 ***This is my "Free" script collection!***
 - Only VRP
